@@ -1,0 +1,12 @@
+﻿1. Door uitdroging verliest je iedereen zijn moerasgebieden.
+2. Door hevige zandstormen verliest iedereen zijn woestijngebieden
+3. Door aardbevingen verliest iedereen zijn berglandschappen
+4. Door massale houtkap verliest iedereen zijn regenwoud gebieden
+5. Door uitdroging verliest iedereen zijn watergebieden
+6. Er zit een addertje onder het gras, iedereen verliest zijn grassteppe gebieden
+7. Geef 1 landschap af aan de speler met het minst aantal gronden
+8. Duid 1 persoon aan die jou een landschap moet geven. Deze persoon mag zelf kiezen welke grond hij kiest
+9. Vrijstelling voor 1 van jouw huidige opdrachten, Het landschap waaraan deze gekoppeld is wordt van jou. Als je nog geen opdrachten hebt mag dit event genegeerd worden.
+10. Kies één speler die zijn volgende beurt moet overslaan
+11. Kies 1 niet geclaimd landschap die aan je huidige tegel aangrenst die vanaf nu van jou. Zijn alle omringde landschappen geclaimd, dan mag je dit event negeren
+12. Daag 1 speler uit, gooi om de beurt met de dobbelsteen. Wie het hoogst gooit verdient een landschap naar keuze van de verliezer.
