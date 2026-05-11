@@ -4,3 +4,4 @@
 4. wanneer op de knop "Event" word gedrukt, wordt er 1 lijn uit Events.txt getoond, de nummering mag genegeerd worden
 5. onder deze event verschijnt een knop "Volgende" die doorverwijst naar stap 1
 
+test
